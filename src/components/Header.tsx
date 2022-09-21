@@ -141,7 +141,7 @@ export default function Header() {
     return (
         <header className={timerId ? "hidden" : undefined}>
             <a href="." className="brand">
-                typing-test
+                typefast
             </a>
             <div className="buttons">
                 {Object.entries(options).map(([option, choices]) => (

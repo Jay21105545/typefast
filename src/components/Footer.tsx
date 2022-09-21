@@ -54,7 +54,7 @@ export default function Footer() {
                 <a
                     target="_blank"
                     rel="noreferrer"
-                    href="https://www.github.com/salmannotkhan/typing-test">
+                    href="https://github.com/Jay21105545/typefast">
                     <span>&lt;/&gt;</span> github
                 </a>
                 <span>
